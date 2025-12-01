@@ -7,13 +7,13 @@ we applied these steps until measure the performance of the KNN classifier:
   <img width="622" height="485" alt="image" src="https://github.com/user-attachments/assets/ebd864e6-4477-4e6e-a70e-db2c35e4ba53" />
   and we noticed that were a balanced data
 
-  ## 2.2 Missing data exploration using graph
-  
+  ## 2.2 Missing data exploration using graph(we noticed that hasnt any missing data)
+
   <img width="636" height="478" alt="image" src="https://github.com/user-attachments/assets/954dce09-f9f9-45a7-9066-f4e3ac6078bd" />
-  And we noticed that hasnt any missing data.
+  
 # 3. Preprocess data 
   ## 3.1 label Encoding technique
-Iin this step we just need to convert labels into numerical data. and we used label Encoding technique
+     In this step we just need to convert labels into numerical data. and we used label Encoding technique
   ## 3.2 Normalize the numerical feature using Min Max scalar
 
 # 4. split data into training and testing with 0.25 for testing
